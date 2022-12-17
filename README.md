@@ -1,2 +1,7 @@
 # Working
-Working principle and other documentation of this kit is available at [Medium](https://medium.com/@thatisuday/making-cli-app-with-ease-using-commander-js-and-inquirer-js-f3bbd52977ac).
+
+i work on this project to learn more about nodejs and expressjs
+
+# Install
+    npm install
+
