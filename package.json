@@ -1,0 +1,16 @@
+{
+    "name": "create-crud-react",
+    "version": "1.0.0",
+    "preferGlobal": true,
+    "bin": {
+        "create-crud-react": "./bin/index.js"
+    },
+    "dependencies": {
+        "colors": "^1.2.1",
+        "commander": "^2.15.1",
+        "fs": "^0.0.1-security",
+        "inquirer": "^5.2.0",
+        "pad": "^2.0.3",
+        "path": "^0.12.7"
+    }
+}
